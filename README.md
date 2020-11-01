@@ -5,7 +5,7 @@
 <img  align="right" width="458" height="auto" src="https://media1.tenor.com/images/b22a65a470ad7cdb14f74f1ac22fb414/tenor.gif?itemid=15911309">
 
 ### 🔭 I’m currently working on Software Developer in [Abuy](https://www.linkedin.com/company/abuyapp/)
-### 🌱 I’m currently learning JavaScript, TtypeScript, Dart, IA, Flutter, React Native, React
+### 🌱 I’m currently learning JavaScript, TypeScript, Dart, IA, Flutter, React Native, React
 ### 💬 [Plugged Computing project](https://sites.google.com/view/computacaoplugada) developer mobile
 
 <h1 align=start>Contact me</h1>
