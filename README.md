@@ -44,7 +44,7 @@
 
 <h1 align=start>Stats</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=josinaldojr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<p align=center> [![trophy](https://github-profile-trophy.vercel.app/?username=josinaldojr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 <p align=center> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=josinaldojr&show_icons=true&theme=dracula" /></a> </p>
 
