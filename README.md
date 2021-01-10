@@ -16,32 +16,6 @@
     <a href="mailto:vitoria.angel2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josinaldo.pontes@dcx.ufpb.br"/></a>
 </p>
 
-<h1 align=start>Technologies and Tools</h1>
-
-<div class="row">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
-  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" alt="apple" width="20" height="20"/>  
-  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="20" height="20"/>
-  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="20" height="20"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/>
-
- 
-  <img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="20" height="20"/>
-  
-  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
-</div>
-
 <h1 align=start>Stats</h1>
 
 <p align=center> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=josinaldojr&theme=dracula"/></a></p>
