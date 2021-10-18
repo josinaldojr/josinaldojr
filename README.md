@@ -5,7 +5,7 @@
 <img  align="right" width="458" height="auto" src="https://media1.tenor.com/images/b22a65a470ad7cdb14f74f1ac22fb414/tenor.gif?itemid=15911309">
 
 ### 🔭 I’m currently working on Software Developer in [Phoebus](https://www.linkedin.com/company/phoebus-tecnologia/)
-### 🌱 I’m currently learning Java, Spring Boot, JavaScript, TypeScript, Dart, IA, Flutter, React Native, React
+### 🌱 I’m currently learning Java, Spring Boot, JavaScript, TypeScript, React Native, React
 ### 💬 [Plugged Computing project](https://sites.google.com/view/computacaoplugada) developer mobile
 ### ⭐ Founding partner of the newest startup that will revolutionize Brazilian tourism
 
