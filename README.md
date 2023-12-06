@@ -6,7 +6,6 @@
 
 ### 🔭 I’m currently working on Software Enginering in [Phoebus](https://www.linkedin.com/company/phoebus-tecnologia/)
 ### 🌱 I’m currently learning Java, Spring Boot, Golang, JavaScript, TypeScript, React Native, React
-### 💬 [Plugged Computing project](https://sites.google.com/view/computacaoplugada) developer mobile
 ### ⭐ Founding partner of the startup Ledthinking
 
 <h1 align=start>Contact me</h1>
